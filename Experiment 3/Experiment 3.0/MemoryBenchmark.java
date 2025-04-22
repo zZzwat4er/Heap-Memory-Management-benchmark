@@ -2,6 +2,14 @@ public class MemoryBenchmark {
     public static void main(String[] args){
         Integer size = Integer.parseInt(args[0]);
         Integer loops = 1000;
+
+        for (int i = 0; i < loops; i++){
+            int[] array = new int[size];
+            for (int j = 0; j < size; j++){
+                array[j] = j;
+            }
+        }
+        System.gc();
         long[] creationTimes = new long[loops];
         long executionTimeStart = System.currentTimeMillis();
 

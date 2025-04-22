@@ -1,0 +1,450 @@
+Running with array size 1000
+C++ Program Output:
+Median loop time 1400ns
+Execution time 1ms
+
+Java Program Output:
+Median loop time 2900ns
+Execution time 4ms
+----------------------
+Running with array size 2000
+C++ Program Output:
+Median loop time 2800ns
+Execution time 3ms
+
+Java Program Output:
+Median loop time 5800ns
+Execution time 8ms
+----------------------
+Running with array size 3000
+C++ Program Output:
+Median loop time 4200ns
+Execution time 4ms
+
+Java Program Output:
+Median loop time 1400ns
+Execution time 12ms
+----------------------
+Running with array size 4000
+C++ Program Output:
+Median loop time 5600ns
+Execution time 5ms
+
+Java Program Output:
+Median loop time 11900ns
+Execution time 14ms
+----------------------
+Running with array size 5000
+C++ Program Output:
+Median loop time 6800ns
+Execution time 7ms
+
+Java Program Output:
+Median loop time 15400ns
+Execution time 14ms
+----------------------
+Running with array size 6000
+C++ Program Output:
+Median loop time 8200ns
+Execution time 8ms
+
+Java Program Output:
+Median loop time 4300ns
+Execution time 15ms
+----------------------
+Running with array size 7000
+C++ Program Output:
+Median loop time 9600ns
+Execution time 9ms
+
+Java Program Output:
+Median loop time 4400ns
+Execution time 16ms
+----------------------
+Running with array size 8000
+C++ Program Output:
+Median loop time 10900ns
+Execution time 11ms
+
+Java Program Output:
+Median loop time 4200ns
+Execution time 16ms
+----------------------
+Running with array size 9000
+C++ Program Output:
+Median loop time 12300ns
+Execution time 12ms
+
+Java Program Output:
+Median loop time 4700ns
+Execution time 18ms
+----------------------
+Running with array size 10000
+C++ Program Output:
+Median loop time 13700ns
+Execution time 14ms
+
+Java Program Output:
+Median loop time 5200ns
+Execution time 19ms
+----------------------
+Running with array size 11000
+C++ Program Output:
+Median loop time 15200ns
+Execution time 15ms
+
+Java Program Output:
+Median loop time 5600ns
+Execution time 20ms
+----------------------
+Running with array size 12000
+C++ Program Output:
+Median loop time 16400ns
+Execution time 16ms
+
+Java Program Output:
+Median loop time 6100ns
+Execution time 20ms
+----------------------
+Running with array size 13000
+C++ Program Output:
+Median loop time 17800ns
+Execution time 18ms
+
+Java Program Output:
+Median loop time 6600ns
+Execution time 24ms
+----------------------
+Running with array size 14000
+C++ Program Output:
+Median loop time 19200ns
+Execution time 19ms
+
+Java Program Output:
+Median loop time 7100ns
+Execution time 23ms
+----------------------
+Running with array size 15000
+C++ Program Output:
+Median loop time 20500ns
+Execution time 21ms
+
+Java Program Output:
+Median loop time 7800ns
+Execution time 24ms
+----------------------
+Running with array size 16000
+C++ Program Output:
+Median loop time 22000ns
+Execution time 22ms
+
+Java Program Output:
+Median loop time 8100ns
+Execution time 23ms
+----------------------
+Running with array size 17000
+C++ Program Output:
+Median loop time 23500ns
+Execution time 24ms
+
+Java Program Output:
+Median loop time 8500ns
+Execution time 26ms
+----------------------
+Running with array size 18000
+C++ Program Output:
+Median loop time 24800ns
+Execution time 25ms
+
+Java Program Output:
+Median loop time 9100ns
+Execution time 24ms
+----------------------
+Running with array size 19000
+C++ Program Output:
+Median loop time 26100ns
+Execution time 26ms
+
+Java Program Output:
+Median loop time 9600ns
+Execution time 26ms
+----------------------
+Running with array size 20000
+C++ Program Output:
+Median loop time 27300ns
+Execution time 28ms
+
+Java Program Output:
+Median loop time 9900ns
+Execution time 28ms
+----------------------
+Running with array size 21000
+C++ Program Output:
+Median loop time 28800ns
+Execution time 29ms
+
+Java Program Output:
+Median loop time 10400ns
+Execution time 28ms
+----------------------
+Running with array size 22000
+C++ Program Output:
+Median loop time 30600ns
+Execution time 31ms
+
+Java Program Output:
+Median loop time 10700ns
+Execution time 35ms
+----------------------
+Running with array size 23000
+C++ Program Output:
+Median loop time 31900ns
+Execution time 36ms
+
+Java Program Output:
+Median loop time 11500ns
+Execution time 28ms
+----------------------
+Running with array size 24000
+C++ Program Output:
+Median loop time 33000ns
+Execution time 33ms
+
+Java Program Output:
+Median loop time 11900ns
+Execution time 30ms
+----------------------
+Running with array size 25000
+C++ Program Output:
+Median loop time 34300ns
+Execution time 34ms
+
+Java Program Output:
+Median loop time 12300ns
+Execution time 29ms
+----------------------
+Running with array size 26000
+C++ Program Output:
+Median loop time 35700ns
+Execution time 36ms
+
+Java Program Output:
+Median loop time 13000ns
+Execution time 31ms
+----------------------
+Running with array size 27000
+C++ Program Output:
+Median loop time 37100ns
+Execution time 37ms
+
+Java Program Output:
+Median loop time 13100ns
+Execution time 32ms
+----------------------
+Running with array size 28000
+C++ Program Output:
+Median loop time 38500ns
+Execution time 39ms
+
+Java Program Output:
+Median loop time 13901ns
+Execution time 32ms
+----------------------
+Running with array size 29000
+C++ Program Output:
+Median loop time 39801ns
+Execution time 40ms
+
+Java Program Output:
+Median loop time 13101ns
+Execution time 35ms
+----------------------
+Running with array size 30000
+C++ Program Output:
+Median loop time 41001ns
+Execution time 42ms
+
+Java Program Output:
+Median loop time 14401ns
+Execution time 34ms
+----------------------
+Running with array size 31000
+C++ Program Output:
+Median loop time 42501ns
+Execution time 43ms
+
+Java Program Output:
+Median loop time 15200ns
+Execution time 34ms
+----------------------
+Running with array size 32000
+C++ Program Output:
+Median loop time 47001ns
+Execution time 53ms
+
+Java Program Output:
+Median loop time 15300ns
+Execution time 36ms
+----------------------
+Running with array size 33000
+C++ Program Output:
+Median loop time 45301ns
+Execution time 46ms
+
+Java Program Output:
+Median loop time 14501ns
+Execution time 38ms
+----------------------
+Running with array size 34000
+C++ Program Output:
+Median loop time 46401ns
+Execution time 47ms
+
+Java Program Output:
+Median loop time 16601ns
+Execution time 37ms
+----------------------
+Running with array size 35000
+C++ Program Output:
+Median loop time 48001ns
+Execution time 48ms
+
+Java Program Output:
+Median loop time 16700ns
+Execution time 38ms
+----------------------
+Running with array size 36000
+C++ Program Output:
+Median loop time 49401ns
+Execution time 50ms
+
+Java Program Output:
+Median loop time 17200ns
+Execution time 38ms
+----------------------
+Running with array size 37000
+C++ Program Output:
+Median loop time 49501ns
+Execution time 51ms
+
+Java Program Output:
+Median loop time 18001ns
+Execution time 40ms
+----------------------
+Running with array size 38000
+C++ Program Output:
+Median loop time 52201ns
+Execution time 52ms
+
+Java Program Output:
+Median loop time 18901ns
+Execution time 42ms
+----------------------
+Running with array size 39000
+C++ Program Output:
+Median loop time 53201ns
+Execution time 54ms
+
+Java Program Output:
+Median loop time 18900ns
+Execution time 42ms
+----------------------
+Running with array size 40000
+C++ Program Output:
+Median loop time 54701ns
+Execution time 55ms
+
+Java Program Output:
+Median loop time 19200ns
+Execution time 43ms
+----------------------
+Running with array size 41000
+C++ Program Output:
+Median loop time 56201ns
+Execution time 57ms
+
+Java Program Output:
+Median loop time 20000ns
+Execution time 42ms
+----------------------
+Running with array size 42000
+C++ Program Output:
+Median loop time 57800ns
+Execution time 60ms
+
+Java Program Output:
+Median loop time 20300ns
+Execution time 48ms
+----------------------
+Running with array size 43000
+C++ Program Output:
+Median loop time 58800ns
+Execution time 59ms
+
+Java Program Output:
+Median loop time 21100ns
+Execution time 43ms
+----------------------
+Running with array size 44000
+C++ Program Output:
+Median loop time 60300ns
+Execution time 61ms
+
+Java Program Output:
+Median loop time 21600ns
+Execution time 44ms
+----------------------
+Running with array size 45000
+C++ Program Output:
+Median loop time 61700ns
+Execution time 62ms
+
+Java Program Output:
+Median loop time 21700ns
+Execution time 47ms
+----------------------
+Running with array size 46000
+C++ Program Output:
+Median loop time 61500ns
+Execution time 62ms
+
+Java Program Output:
+Median loop time 22100ns
+Execution time 45ms
+----------------------
+Running with array size 47000
+C++ Program Output:
+Median loop time 63100ns
+Execution time 67ms
+
+Java Program Output:
+Median loop time 22300ns
+Execution time 49ms
+----------------------
+Running with array size 48000
+C++ Program Output:
+Median loop time 65800ns
+Execution time 67ms
+
+Java Program Output:
+Median loop time 23801ns
+Execution time 46ms
+----------------------
+Running with array size 49000
+C++ Program Output:
+Median loop time 65800ns
+Execution time 71ms
+
+Java Program Output:
+Median loop time 24000ns
+Execution time 48ms
+----------------------
+Running with array size 50000
+C++ Program Output:
+Median loop time 68500ns
+Execution time 70ms
+
+Java Program Output:
+Median loop time 24500ns
+Execution time 47ms
+----------------------
