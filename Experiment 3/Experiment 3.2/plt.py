@@ -25,8 +25,7 @@ df = pd.DataFrame({
     "C++ Loop Execution time (ns)": cpp_numbers,
     "Java Loop Execution time (ns)": java_numbers
 }).apply(pd.to_numeric)
-# Print the DataFrame to verify
-print(df)
+df.to_csv('./output/out.csv', index=False)
 
 # Plot the data
 plt.figure(figsize=(21, 9))
@@ -39,7 +38,7 @@ plt.grid(True)
 plt.legend()
 plt.savefig("fig/LoopTimes.png")
 
-window_size = 10000
+window_size = 1000
 df_smoothed = df.rolling(window=window_size).mean().dropna()
 
 plt.figure(figsize=(21, 9))

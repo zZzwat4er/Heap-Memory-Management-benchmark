@@ -7,7 +7,7 @@ int main(int argc, char *argv[]) {
     int size = std::stoi(argv[1]);
     int loops = 1000;
     // warm up the program
-    for (int i = 0; i < loops; i++) {
+    for (int i = 0; i < loops * 2; i++) {
         int* array = new int[size];
         for (int j = 0; j < size; j++) {
             array[j] = j;

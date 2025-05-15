@@ -3,7 +3,7 @@ public class MemoryBenchmark {
         Integer size = Integer.parseInt(args[0]);
         Integer loops = 1000;
 
-        for (int i = 0; i < loops; i++){
+        for (int i = 0; i < loops * 2; i++){
             int[] array = new int[size];
             for (int j = 0; j < size; j++){
                 array[j] = j;

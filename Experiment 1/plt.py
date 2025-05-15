@@ -22,8 +22,7 @@ matches = pattern.findall(data)
 df = pd.DataFrame(matches, columns=["Array Size", "C++ Median (ns)", "C++ ExecTime (ms)", "Java Median (ns)", "Java ExecTime (ms)"])
 df = df.apply(pd.to_numeric)  # Convert strings to numbers
 
-# Print the DataFrame to verify
-print(df)
+df.to_csv('./output/out.csv', index=False)  
 
 # Plot the data
 plt.figure(figsize=(21, 9))

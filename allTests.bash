@@ -1,5 +1,7 @@
 #!/bin/bash
 
+start=$(date +%s)
+
 for dir in "Experiment "*/; do
     if [ -f "${dir}test.bash" ]; then
         echo "Running test.bash in $dir"
@@ -9,3 +11,5 @@ for dir in "Experiment "*/; do
     fi
     eval printf '=%.0s' {1..$(tput cols)}
 done
+
+echo time $(( $(date +%s) - $start ))

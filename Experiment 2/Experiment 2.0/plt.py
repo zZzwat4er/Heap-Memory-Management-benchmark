@@ -25,8 +25,7 @@ df = pd.DataFrame({
     "C++ Loop Execution time (ns)": cpp_numbers,
     "Java Loop Execution time (ns)": java_numbers
 }).apply(pd.to_numeric)
-# Print the DataFrame to verify
-print(df)
+df.to_csv('./output/out.csv', index=False)
 
 # Plot the data
 plt.figure(figsize=(21, 9))

@@ -36,7 +36,7 @@ Matrix transformMatrix(const Matrix& input) {
 }
 
 int main(int argc, char *argv[]) {
-    const int ITERATIONS = 10000;
+    const int ITERATIONS = 5000;
     const int MAX_SIZE = 1000;
     
     std::chrono::duration<long int, std::ratio<1, 1000000000>>* iterationTime = new std::chrono::duration<long int, std::ratio<1, 1000000000>>[ITERATIONS];
@@ -46,13 +46,13 @@ int main(int argc, char *argv[]) {
 
     // Warm up
     for (int i = 0; i < 100; i++) {
-        createMatrix(10);
+        createMatrix(1000);
     }
     
     for (int i = 0; i < ITERATIONS; ++i) {
-        int size = (i % (MAX_SIZE / 10)) * 10;
-        auto original = createMatrix(size);
+        int size = (i % (MAX_SIZE / 50)) * 50;
         auto transformTime = std::chrono::high_resolution_clock::now();
+        auto original = createMatrix(size);
         auto transformed = transformMatrix(original);
         iterationTime[i] = std::chrono::high_resolution_clock::now() - transformTime;
         
